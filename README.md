@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Multimodal Image Analysis for Scene Understanding And Photo Captioning
+=======
+# Multimodal Image Analysis for Scene Understanding and Photo Captioning
+>>>>>>> 431aa1d1c74945e0e7c542e3c5db284661f8625b
 
 ## Project Description
 
