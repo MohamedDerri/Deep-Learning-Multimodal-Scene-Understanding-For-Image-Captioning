@@ -1,4 +1,4 @@
-# Multimodal Image Analysis for Scene Understanding
+# Multimodal Image Analysis for Scene Understanding and image captioning
 
 ## Project Description
 
