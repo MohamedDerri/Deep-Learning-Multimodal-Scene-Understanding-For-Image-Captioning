@@ -1,4 +1,4 @@
-# Multimodal Image Analysis for Scene Understanding and image captioning
+# Multimodal Image Analysis for Scene Understanding And Photo Captioning
 
 ## Project Description
 
@@ -9,17 +9,27 @@ The **Multimodal Image Analysis for Scene Understanding** project aims to harnes
 ### Object Detection
 We utilize advanced object detection APIs to identify and categorize objects present in the image. This process provides insights into the key elements that contribute to the composition of the scene.
 
+![Object Detection](assets/object.png)
+
 ### Face and Emotion Detection
 We employ facial recognition APIs to detect and analyze faces in the image. This includes extracting attributes such as emotion and age, enhancing the understanding of human presence and sentiment.
+
+![Face and Emotion Detection](assets/faces_emotions.png)
 
 ### Landmark Detection
 By applying landmark detection APIs, we identify significant points within the image, such as architectural features. This process contributes to a deeper understanding of spatial context.
 
+![Landmark Detection](assets/landmark.png)
+
 ### Logo Detection
 We implement logo detection APIs to recognize corporate logos within the image. This adds contextual information and potential insights into brand associations.
 
+![Logo Detection](assets/logo.png)
+
 ### Optical Character Recognition (OCR)
 We leverage OCR APIs to extract text from the image. This allows us to incorporate textual information that may be crucial for a comprehensive scene interpretation.
+
+![Optical Character Recognition (OCR)](assets/text.png)
 
 ## Integration and Narrative Generation
 
