@@ -1,5 +1,5 @@
 # Multimodal Image Analysis for Scene Understanding And Photo Captioning
-
+{ *** This project was undertaken as a challenge aimed at securing a position as a deep learning research assistant. The task involved leveraging existing models within a tight timeframe, focusing on strategic problem-solving approaches rather than assessing ML expertise, highlighting our ability to tackle real-world challenges effectively *** }
 ## Project Description
 
 The **Multimodal Image Analysis for Scene Understanding** project aims to harness the power of cutting-edge APIs to achieve a comprehensive understanding of visual content within images. By combining multiple data analysis techniques, including object detection, face and emotion detection, landmark detection, logo detection, and optical character recognition (OCR), this project aims to provide a holistic interpretation of scenes captured in images.
